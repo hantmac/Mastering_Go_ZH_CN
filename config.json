@@ -1,0 +1,9 @@
+{
+	"name": "玩转 Go",
+	"introduction": "Go 进阶书籍《Mastering Go》的中文译本。",
+	"path": {
+		"content": "eBook",
+		"readme": "README.md"
+	}
+
+}
