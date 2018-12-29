@@ -25,6 +25,7 @@
 - 本书原作者：Mihalis Tsoukalos
 - 参与翻译人员
   - [Jack](https://github.com/hantmac)
+  - [xionghui](https://github.com/xionghui)
 
 ### 授权许可
 
