@@ -277,3 +277,22 @@
   - 8.21 延展阅读
   - 8.22 练习
   - 8.23 本章小结
+
+- 第九章 并发-Goroutines,Channel和Pipeline
+
+  - 9.1 关于进程，线程和goroutines
+    - 9.1.1 Go 调度器
+    - 9.1.2 并发和并行
+  - 9.2 Goroutines
+    - 9.2.1 创建一个Goroutine
+    - 9.2.2 创建多个Goroutine
+  - 9.3 优雅地结束goroutines
+    - 9.3.1 当Add()和Done()的数量不匹配时会发生什么？
+  - 9.4 Channel(通道)
+    - 9.4.1 通道的写入
+    - 9.4.2 从通道中读取
+    - 9.4.3 通道作为函数参数
+  - 9.5 使用多个goroutines形成Pipeline
+  - 9.6 延展阅读
+  - 9.7 练习
+  - 9.8 本章小结
