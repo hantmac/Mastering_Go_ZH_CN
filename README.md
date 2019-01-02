@@ -12,20 +12,24 @@
 
 目录
 
+-------
 ### 支持本书
 
 如果你喜欢本书 《玩转 Go》，你可以参与到本书的翻译或纠正工作中来，具体请联系【Jack E-mail：hantmac@outlook.com】，一同完善本书并帮助壮大 Go 语言在国内的学习群体，给大家提供更好的学习资源。
 
+-------
 ### 规则&&Fork&&PR
 
 - 章节命名规则：举例，第一章第一节，01.1.md,如果第一节下面还有分支，01.1.1,依次类推;
 - 联系邮箱，取得电子版，获得安排的翻译章节，Fork分支，提交PR;
 - 由多人审核后，合并
 
+-------
 ### 交流社区
 
 微信群：
 
+--------
 ### 致谢
 
 - 本书原作者：Mihalis Tsoukalos
@@ -33,10 +37,12 @@
   - [Jack](https://github.com/hantmac)
   - [xionghui](https://github.com/xionghui)
 
+---------
 ### 授权许可
 
 除特别声明外，本书中的内容使用 [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/)（创作共用 署名-相同方式共享3.0 许可协议）授权，代码遵循 [BSD 3-Clause License](https://github.com/astaxie/build-web-application-with-golang/blob/master/LICENSE.md)（3 项条款的 BSD 许可协议）。
 
+--------
 ### 开始阅读
 
 
