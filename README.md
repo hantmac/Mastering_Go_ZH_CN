@@ -29,7 +29,7 @@
 
 微信群：
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fyuq7besyqj303504q744.jpg)
+![](https://ws3.sinaimg.cn/large/006tNc79ly1fyuq9sie4nj305i0a23yi.jpg)
 
 --------
 ### 致谢
