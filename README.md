@@ -13,7 +13,7 @@
 ~~目录目前已翻译结束，可以浏览了解一下~~
 - [目录](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/TOC.md)
 - [chapter 0](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter0)
-  - [第0章 前言](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter0/00.0.md)
+  - [00.0 前言](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter0/00.0.md)
    - [00.1 面向读者](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter0/00.1.md)
 - [chapter 1](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter1)
   - [01.1 本书结构](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter1/01.1.md)
