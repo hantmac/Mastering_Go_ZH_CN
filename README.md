@@ -21,7 +21,7 @@
   - [01.2 Go的历史](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter1/01.2.md)
   - [01.3 为什么是Go](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter1/01.3.md)
   - [01.4 Go的优点](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter1/01.4.md)
-   - [01.4.1 Go是完美的么](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter1/01.4.1.md)
+    - [01.4.1 Go是完美的么](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter1/01.4.1.md)
 
 -------
 ### 支持本书
