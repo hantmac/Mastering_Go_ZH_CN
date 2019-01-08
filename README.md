@@ -12,19 +12,22 @@
 
 *持续更新中。。。。*
 - [目录](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/TOC.md)
-- [chapter 0](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter0)
+- [chapter 0 前言](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter0)
   - [00.0 前言](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter0/00.0.md)
    - [00.1 面向读者](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter0/00.1.md)
    - [00.2 章节概览](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter0/00.2.md)
    - [00.3 更多信息](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter0/00.3.md)
      - [00.3.1 代码规范约定](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter0/00.3.1.md)
-- [chapter 1](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter1)
+- [chapter 1 Go与操作系统](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter1)
   - [01.1 本书结构](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter1/01.1.md)
   - [01.2 Go的历史](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter1/01.2.md)
   - [01.3 为什么是Go](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter1/01.3.md)
   - [01.4 Go的优点](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter1/01.4.md)
     - [01.4.1 Go是完美的么](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter1/01.4.1.md)
-
+- [chapter 3 Go基本数据类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter3)
+  - [03.3 Go切片](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.md)
+    - [03.3.1 切片基本操作](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.1.md)
+- [chapter 9 并发-Goroutines,Channel和Pipeline](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.0.md)
 -------
 ### 支持本书
 
@@ -56,7 +59,8 @@
   - [Jack](https://github.com/hantmac)
   - [xionghui](https://github.com/xionghui)
   - [leeweir](https://github.com/leeweir)
-  - 
+  - [songxuexian](https://github.com/songxuexian)
+  - [tangjun1990](https://github.com/tangjun1990)
 
 ---------
 ### 授权许可
