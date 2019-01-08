@@ -60,6 +60,7 @@
   - [xionghui](https://github.com/xionghui)
   - [leeweir](https://github.com/leeweir)
   - [songxuexian](https://github.com/songxuexian)
+  - [tangjun1990](https://github.com/tangjun1990)
 
 ---------
 ### 授权许可
