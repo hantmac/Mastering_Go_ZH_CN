@@ -6,7 +6,7 @@
 ------
 
 
-本书适用于Golang程序员。您之前应该阅读有关Go的介绍性书籍，或者已经完成了Go By Example。本书的内容包括但不限于并发、网络编程、垃圾回收、组合、GO UNIX系统编程、基本数据类型（Array,Slice,Map）、GO源码、反射，接口，类型方法等高级概念。阅读本书需要一定的编程经验。如果你在工作中使用Go或者业余时间爱好GO，那么这本书一定会让你对GO的理解更上一层楼。
+本书适用于Golang程序员。您之前应该阅读有关Go的介绍性书籍，或者已经完成了[Go By Example](https://books.studygolang.com/gobyexample/)。本书的内容包括但不限于并发、网络编程、垃圾回收、组合、GO UNIX系统编程、基本数据类型（Array,Slice,Map）、GO源码、反射，接口，类型方法等高级概念。阅读本书需要一定的编程经验。如果你在工作中使用Go或者业余时间爱好GO，那么这本书一定会让你对GO的理解更上一层楼。
 
 ### 翻译进度
 
@@ -31,6 +31,8 @@
     - [03.3.3 字节切片](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.3.md)
     - [03.3.4 copy()函数](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.4.md)
     - [03.3.5 多维切片](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.5.md)
+    - [03.3.6 使用切片的代码示例](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.6.md)
+    - [0.3.3.7 使用sort.Slice()排序](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.7.md)
 - [chapter 9 并发-Goroutines,Channel和Pipeline](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.0.md)
   - [09.1 关于进程，线程和Go协程](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.1.md)
       - [09.1.1 Go调度器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.1.1.md)
