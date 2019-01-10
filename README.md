@@ -37,6 +37,9 @@
   - [09.1 关于进程，线程和Go协程](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.1.md)
       - [09.1.1 Go调度器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.1.1.md)
       - [09.1.2 并发与并行](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.1.2.md)
+  - [09.2 Goroutines](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.2.md)
+      - [09.2.1 创建一个Goroutine](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.2.1.md)
+      - [09.2.2 创建多个Goroutine](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.2.2.md)
 -------
 ### 支持本书
 
