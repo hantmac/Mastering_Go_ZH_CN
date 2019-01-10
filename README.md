@@ -89,4 +89,8 @@
 - [Go walker 强大的Go在线API文档](https://gowalker.org/)
 - [jsonTOGo 好用的json转go struct工具](https://mholt.github.io/json-to-go/)
 - [Go web框架beego](https://beego.me/)
+- [官方代码规范指导](https://github.com/golang/go/wiki/CodeReviewComments)
+- [xorm](https://github.com/go-xorm/xorm)支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
+- [mgo](http://labix.org/mgo)MongoDB 官方推荐驱动
+- [gorm](https://github.com/jinzhu/gorm)全功能 ORM (无限接近) 支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
 
