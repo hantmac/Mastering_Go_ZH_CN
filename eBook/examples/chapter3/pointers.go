@@ -6,7 +6,7 @@ func getPointer(n *int) {
 	*n = *n * *n
 }
 
-func returnPointer(n int) *int  {
+func returnPointer(n int) *int {
 	v := n * n
 	return &v
 }
@@ -25,10 +25,10 @@ func main() {
 
 	*pI = 123456
 	*pI--
-	fmt.Println("i:",i)
+	fmt.Println("i:", i)
 
 	getPointer(pJ)
-	fmt.Println("j:",j)
+	fmt.Println("j:", j)
 	k := returnPointer(12)
 	fmt.Println(*k)
 	fmt.Println(k)
