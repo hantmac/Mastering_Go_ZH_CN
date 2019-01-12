@@ -41,6 +41,7 @@
     - [03.4.2 何时该使用Map?](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.4.2.md)
   - [03.5 Go 常量](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.5.md)
     - [03.5.1 常量生成器：iota](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.5.1.md)
+  - [03.6 Go 指针](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.6.md)
 - [chapter 7 反射和接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7)
   - [07.1 类型方法](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.1.md)
   - [07.2 Go的接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.2.md)
