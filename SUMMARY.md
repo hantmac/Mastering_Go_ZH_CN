@@ -55,3 +55,11 @@
   * [07.7 延展阅读](eBook/chapter7/07.7.md)
   * [07.8 练习](eBook/chapter7/07.8.md)
   * [07.9 本章小结](eBook/chapter7/07.9.md)
+
+* [9 并发-Goroutines,Channel和Pipeline]
+  * [09.1 关于进程，线程和Go协程](eBook/chapter9/09.1.md)
+    * [09.1.1 Go调度器](eBook/chapter9/09.1.1.md)
+    * [09.1.2 并发与并行](eBook/chapter9/09.1.2.md)
+  * [09.2 Goroutines](eBook/chapter9/09.2.md)
+    [09.2.1 创建一个Goroutine](eBook/chapter9/09.2.1.md)
+    [09.2.2 创建多个Goroutine](eBook/chapter9/09.2.2md)
