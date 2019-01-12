@@ -39,6 +39,8 @@
   - [03.4 Go 映射(map)](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.4.0.md)
     - [03.4.1 Map值为nil的坑](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.4.1.md)
     - [03.4.2 何时该使用Map?](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.4.2.md)
+  - [03.5 Go 常量](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.5.md)
+    - [03.5.1 常量生成器：iota](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.5.1.md)
 - [chapter 7 反射和接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7)
   - [07.1 类型方法](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.1.md)
   - [07.2 Go的接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.2.md)
@@ -54,6 +56,7 @@
   - [07.7 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.7.md)
   - [07.8 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.8.md)
   - [07.9 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.9.md)
+
 - [chapter 9 并发-Goroutines,Channel和Pipeline](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.0.md)
   - [09.1 关于进程，线程和Go协程](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.1.md)
       - [09.1.1 Go调度器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.1.1.md)
