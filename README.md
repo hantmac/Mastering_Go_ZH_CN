@@ -56,6 +56,7 @@
   - [04.2 结构体](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.2.md)
     - [04.2.1 结构体指针](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.2.1.md)
     - [04.2.2 使用new关键字](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.2.2.md)
+  - [04.3 元组](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.3.md)
 - [chapter5 数据结构](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.0.md)
   - [05.1 图和节点](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.1.md)
   - [05.2 算法复杂度](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.2.md)
