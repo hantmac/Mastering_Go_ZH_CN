@@ -52,6 +52,7 @@
   - [03.9 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.9.md)
   - [03.10 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.10.md)
 - [chapter4 组合类型的使用](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.0.md)
+- [chapter5 数据结构](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter5)
 - [chapter 7 反射和接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7)
   - [07.1 类型方法](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.1.md)
   - [07.2 Go的接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.2.md)

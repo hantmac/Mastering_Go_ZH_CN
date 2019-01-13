@@ -40,6 +40,11 @@
     * [03.7.4 解析日期的代码示例](eBook/chapter3/03.7.4.md)
     * [03.7.5 格式化时间与日期](eBook/chapter3/03.7.5.md)
 
+* [4 数据结构]
+  * [05.0 数据结构](eBook/chapter5/05.0.md)
+  * [05.1 图和节点](eBook/chapter5/05.1.md)
+  * [05.2 算法复杂度](eBook/chapter5/05.2.md)
+
 * [7 反射和接口]
   * [07.1 类型方法](eBook/chapter7/07.1.md)
   * [07.2 Go的接口](eBook/chapter7/07.2.md)
