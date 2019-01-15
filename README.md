@@ -60,6 +60,7 @@
   - [04.4 正则表达式与模式匹配](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.4.md)
     - [04.4.1 理论知识](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.4.1.md)
     - [04.4.2 简单的正则表达式示例](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.4.2.md)
+    - [04.4.3 高级的正则表达式示例](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.4.3.md)
 - [chapter5 数据结构](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.0.md)
   - [05.1 图和节点](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.1.md)
   - [05.2 算法复杂度](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.2.md)
