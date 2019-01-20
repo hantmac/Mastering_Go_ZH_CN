@@ -96,7 +96,7 @@
 
 - [chapter 13 网络编程 - 构建服务器与客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.0.md)
   - [13.1 Go 标准库-net](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.1.md)
-
+  - [13.2 TCP 客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.2.md)
 -------
 ### GitBook
 [Mastering_Go_ZH_CN](https://wskdsgcf.gitbook.io/mastering-go-zh-cn)
