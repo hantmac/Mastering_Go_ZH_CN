@@ -64,6 +64,11 @@
     - [04.4.1 理论知识](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.4.1.md)
     - [04.4.2 简单的正则表达式示例](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.4.2.md)
     - [04.4.3 高级的正则表达式示例](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.4.3.md)
+    - [04.4.4 正则匹配IPv4地址](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.4.4.md)
+  - [04.5 字符串](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.5.md)
+    - [04.5.1 rune是什么？](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.5.1.md)
+    - [04.5.2 关于Unicode的包](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.5.2.md)
+    - [04.5.3 关于字符串处理的包](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.5.3.md)
 - [chapter5 数据结构](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.0.md)
   - [05.1 图和节点](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.1.md)
   - [05.2 算法复杂度](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.2.md)
@@ -94,7 +99,13 @@
       - [09.3.1 当Add()和Done()的数量不匹配时会发生什么？](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.3.1.md)
   - [09.4 Channel(通道)](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.4.md)
 
+
 - [chapter 12 Go网络编程基础](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.0.md)
+
+
+- [chapter 13 网络编程 - 构建服务器与客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.0.md)
+  - [13.1 Go 标准库-net](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.1.md)
+  - [13.2 TCP 客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.2.md)
 
 -------
 ### GitBook
@@ -139,6 +150,7 @@
   - [glbrtchen](https://github.com/glbrtchen)
   - [wskdsgcf](https://github.com/wskdsgcf)
   - [mark1995](https://github.com/mark1995)
+  - [themoonbear](https://github.com/themoonbear)
 
 ---------
 ### 授权许可
