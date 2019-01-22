@@ -68,3 +68,10 @@
   * [09.2 Goroutines](eBook/chapter9/09.2.md)
     [09.2.1 创建一个Goroutine](eBook/chapter9/09.2.1.md)
     [09.2.2 创建多个Goroutine](eBook/chapter9/09.2.2md)
+
+* [12 Go网络编程基础]
+  * [12.0 Go网络编程基础](eBook/chapter12/12.0.md)
+  * [12.1 关于net/http,net和http.RoundTripper](eBook/chapter12/12.1.md)
+    * [12.1.1 http.Response类型](eBook/chapter12/12.1.1.md)
+    * [12.1.2 http.Request类型](eBook/chapter12/12.1.2.md)
+    * [12.1.3 http.Transport类型](eBook/chapter12/12.1.3.md)
