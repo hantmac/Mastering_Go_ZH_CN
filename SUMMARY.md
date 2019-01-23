@@ -17,6 +17,9 @@
 * [2 Go内部机制]
   * [02.0 本章概述](eBook/chapter2/02.0.md)
   * [02.1 编译器](eBook/chapter2/02.1.md)
+  * [02.4 C中调用Go函数](eBook/chapter2/02.4.md)
+    * [02.4.1 Go Package](eBook/chapter2/02.4.1.md)
+    * [02.4.2 C代码](eBook/chapter2/02.4.2.md)
 
 * [3 Go基本数据类型]
   * [03.3 Go切片](eBook/chapter3/03.3.md)
@@ -39,6 +42,26 @@
     * [03.7.3 解析日期](eBook/chapter3/03.7.3.md)
     * [03.7.4 解析日期的代码示例](eBook/chapter3/03.7.4.md)
     * [03.7.5 格式化时间与日期](eBook/chapter3/03.7.5.md)
+  * [03.8 延伸阅读](eBook/chapter3/03.8.md)
+  * [03.9 练习](eBook/chapter3/03.9.md)
+  * [03.10 本章小结](eBook/chapter3/03.10.md)
+
+* [4 组合类型的使用]
+  * [04.0 组合类型的使用](eBook/chapter4/04.0.md)
+  * [04.1 关于组合类型](eBook/chapter4/04.1.md)
+  * [04.2 结构体](eBook/chapter4/04.2.md)
+    * [04.2.1 结构体指针](eBook/chapter4/04.2.1.md)
+    * [04.2.2 使用new关键字](eBook/chapter4/04.2.2.md)
+  * [04.3 元组](eBook/chapter4/04.3.md)
+  * [04.4 正则表达式与模式匹配](eBook/chapter4/04.4.md)
+    * [04.4.1 理论知识](eBook/chapter4/04.4.1.md)
+    * [04.4.2 简单的正则表达式示例](eBook/chapter4/04.4.2.md)
+    * [04.4.3 高级的正则表达式示例](eBook/chapter4/04.4.3.md)
+    * [04.4.4 正则匹配IPv4地址](eBook/chapter4/04.4.4.md)
+  * [04.5 字符串](eBook/chapter4/04.5.md)
+    * [04.5.1 rune是什么？](eBook/chapter4/04.5.1.md)
+    * [04.5.2 关于Unicode的包](eBook/chapter4/04.5.2.md)
+    * [04.5.3 关于字符串处理的包](eBook/chapter4/04.5.3.md)
 
 * [5 数据结构]
   * [05.0 数据结构](eBook/chapter5/05.0.md)
@@ -68,6 +91,9 @@
   * [09.2 Goroutines](eBook/chapter9/09.2.md)
     [09.2.1 创建一个Goroutine](eBook/chapter9/09.2.1.md)
     [09.2.2 创建多个Goroutine](eBook/chapter9/09.2.2md)
+  * [09.3 优雅地结束goroutines](eBook/chapter9/09.3.md)
+    * [09.3.1 当Add()和Done()的数量不匹配时会发生什么？](eBook/chapter9/09.3.1.md)
+  * [09.4 Channel(通道)](eBook/chapter9/09.4.md)
 
 * [12 Go网络编程基础]
   * [12.0 Go网络编程基础](eBook/chapter12/12.0.md)
@@ -75,3 +101,10 @@
     * [12.1.1 http.Response类型](eBook/chapter12/12.1.1.md)
     * [12.1.2 http.Request类型](eBook/chapter12/12.1.2.md)
     * [12.1.3 http.Transport类型](eBook/chapter12/12.1.3.md)
+  
+* [13 网络编程 - 构建服务器与客户端]
+  * [13.0 网络编程 - 构建服务器与客户端](eBook/chapter13/13.0.md)
+  * [13.1 Go 标准库-net](eBook/chapter13/13.1.md)
+  * [13.2 TCP 客户端](eBook/chapter13/13.2.md)
+    * [13.2.1 另一个版本的 TCP 客户端](eBook/chapter13/13.2.1.md)
+  * [13.3 TCP 服务器](eBook/chapter13/13.3.md)
