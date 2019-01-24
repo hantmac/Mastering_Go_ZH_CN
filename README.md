@@ -69,6 +69,7 @@
     - [04.5.1 rune是什么？](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.5.1.md)
     - [04.5.2 关于Unicode的包](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.5.2.md)
     - [04.5.3 关于字符串处理的包](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.5.3.md)
+  - [04.6 switch语句](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.6.md)
 - [chapter5 数据结构](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.0.md)
   - [05.1 图和节点](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.1.md)
   - [05.2 算法复杂度](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.2.md)
