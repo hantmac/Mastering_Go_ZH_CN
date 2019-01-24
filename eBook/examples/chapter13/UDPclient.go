@@ -47,6 +47,6 @@ func main() {
 			fmt.Println(err)
 			return
 		}
-		fmt.Printf("Reply: %\n", string(buffer[0:n]))
+		fmt.Printf("Reply: %s\n", string(buffer[0:n]))
 	}
 }
