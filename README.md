@@ -30,6 +30,7 @@
   - [02.4 C中调用Go函数](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.4.md)
     - [02.4.1 Go Package](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.4.1.md)
     - [02.4.2 C代码](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.4.2.md)
+  - [02.5 defer关键字](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.5.md)
 - [chapter 3 Go基本数据类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter3)
   - [03.3 Go切片](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.md)
     - [03.3.1 切片基本操作](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.1.md)
@@ -117,7 +118,7 @@
   - [13.3 TCP 服务器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.3.md)
     - [13.3.1 另一个版本的 TCP 服务器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.3.1.md)  
   - [13.4 UDP 客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.4.md)
-  
+
 -------
 ### GitBook
 [Mastering_Go_ZH_CN](https://wskdsgcf.gitbook.io/mastering-go-zh-cn)
