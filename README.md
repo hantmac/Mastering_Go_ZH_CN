@@ -30,6 +30,7 @@
   - [02.4 C中调用Go函数](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.4.md)
     - [02.4.1 Go Package](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.4.1.md)
     - [02.4.2 C代码](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.4.2.md)
+  - [02.5 defer关键字](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.5.md)
 - [chapter 3 Go基本数据类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter3)
   - [03.3 Go切片](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.md)
     - [03.3.1 切片基本操作](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.1.md)
@@ -105,7 +106,11 @@
     - [12.1.1 http.Response类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.1.md)
     - [12.1.2 http.Request类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.2.md)
     - [12.1.3 http.Transport类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.3.md)
-
+  - [12.2 关于TCP/IP](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.2.md)
+  - [12.3 关于IPv4和IPv6](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.3.md)
+  - [12.4 命令行工具netcat](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.4.md)
+  - [12.5 读取网络接口的配置文件](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.5.md)
+  
 - [chapter 13 网络编程 - 构建服务器与客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.0.md)
   - [13.1 Go 标准库-net](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.1.md)
   - [13.2 TCP 客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.2.md)
@@ -115,6 +120,7 @@
   - [13.4 UDP 客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.4.md)
   - [13.5 UDP 服务器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.5.md)
    
+
 -------
 ### GitBook
 [Mastering_Go_ZH_CN](https://wskdsgcf.gitbook.io/mastering-go-zh-cn)
