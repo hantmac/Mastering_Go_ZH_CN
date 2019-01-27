@@ -72,6 +72,7 @@
     - [04.5.3 关于字符串处理的包](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.5.3.md)
   - [04.6 switch语句](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.6.md)
   - [04.7 计算Pi的精确值](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.7.md)
+  - [04.8 实现简单的K-V存储](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter4/04.8.md)
 - [chapter5 数据结构](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.0.md)
   - [05.1 图和节点](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.1.md)
   - [05.2 算法复杂度](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.2.md)
