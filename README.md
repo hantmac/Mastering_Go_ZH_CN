@@ -121,6 +121,7 @@
   - [13.4 UDP 客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.4.md)
   - [13.5 UDP 服务器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.5.md)
   - [13.6 并发 TCP 服务器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.6.md)
+    - [13.6.1 简洁的并发TCP服务器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.6.1.md)
    
 
 -------
