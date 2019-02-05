@@ -133,7 +133,9 @@
   - [13.8 底层网络编程](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.8.md)
     - [13.8.1 获取ICMP数据](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.8.1.md)
   - [13.9 接下来的任务](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.9.md)
-   
+  - [13.10 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.10.md)
+  - [13.11 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.11.md)   
+  - [13.12 本章小节](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.12.md)
 
 -------
 ### GitBook
