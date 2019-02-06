@@ -118,6 +118,7 @@
   - [12.6 实现DNS查询](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.6.md)
     - [12.6.1 获取域名的 NS 记录](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.6.1.md)
     - [12.6.2 获取域名的 MX 记录](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.6.2.md)
+  - [12.7 Go实现web服务器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.7.md)
   
 - [chapter 13 网络编程 - 构建服务器与客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.0.md)
   - [13.1 Go 标准库-net](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.1.md)
