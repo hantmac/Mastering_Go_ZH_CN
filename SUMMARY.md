@@ -108,6 +108,9 @@
   * [12.6 实现DNS查询](eBook/chapter12/12.6.md)
     * [12.6.1 获取域名的NS记录](eBook/chapter12/12.6.1.md)
     * [12.6.2 获取域名的MX记录](eBook/chapter12/12.6.2.md)
+  * [12.7 Go实现web服务器](eBook/chapter12/12.7.md)
+    * [12.7.1 分析HTTP服务](eBook/chapter12/12.7.1.md)
+    * [12.7.2 Go创建web网页](eBook/chapter12/12.7.2.md)
 
 * [13 网络编程 - 构建服务器与客户端]
   * [13.0 网络编程 - 构建服务器与客户端](eBook/chapter13/13.0.md)
