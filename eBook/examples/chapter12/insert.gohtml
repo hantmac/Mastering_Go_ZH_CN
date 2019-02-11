@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>A Key Value Store!</title>
+</head>
+<body>
+
+<a href="/" style="margin-right: 20px;">Home sweet home!</a>
+<a href="/list" style="margin-right: 20px;">List all elements!</a>
+<a href="/change" style="margin-right: 20px;">Change an elements!</a>
+<a href="/insert" style="margin-right: 20px;">Insert an elements!</a>
+
+{{if .Success}}
+    <h1>Element inserted!</h1>
+{{else}}
+    <h1>Please fill in the fields:</h1>
+    <form method="POST">
+        <label>Key:</label><br/>
+        <input type="text" name="key"><br/>
+        <label>Name:</label><br/>
+        <input type="text" name="name"><br/>
+        <label>Surname:</label><br/>
+        <input type="text" name="surname"><br/>
+        <label>Id:</label><br/>
+        <input type="text" name="id"><br/>
+        <input type="submit">
+    </form>
+{{end}}
+
+</body>
+</html>
