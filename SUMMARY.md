@@ -1,11 +1,11 @@
 * [介绍](README.md)
 
 * [0 前言]
-  * [00.0 前言](eBook/chapter0/00.0.md)
-  * [00.1 面向读者](eBook/chapter0/00.1.md)
-  * [00.2 章节概览](eBook/chapter0/00.2.md)
-  * [00.3 更多信息](eBook/chapter0/00.3.md)
-    * [00.3.1 代码规范约定](eBook/chapter0/00.3.1.md)
+  * [00.1 前言](eBook/chapter0/00.1.md)
+  * [00.2 面向读者](eBook/chapter0/00.2.md)
+  * [00.3 章节概览](eBook/chapter0/00.3.md)
+  * [00.4 更多信息](eBook/chapter0/00.4.md)
+    * [00.4.1 代码规范约定](eBook/chapter0/00.4.1.md)
 
 * [1 Go与操作系统]
   * [01.1 本书结构](eBook/chapter1/01.1.md)
@@ -15,11 +15,12 @@
     * [01.4.1 Go是完美的么](eBook/chapter1/01.4.1.md)
 
 * [2 Go内部机制]
-  * [02.0 本章概述](eBook/chapter2/02.0.md)
-  * [02.1 编译器](eBook/chapter2/02.1.md)
-  * [02.4 C中调用Go函数](eBook/chapter2/02.4.md)
-    * [02.4.1 Go Package](eBook/chapter2/02.4.1.md)
-    * [02.4.2 C代码](eBook/chapter2/02.4.2.md)
+  * [02.1 本章概述](eBook/chapter2/02.1.md)
+  * [02.2 编译器](eBook/chapter2/02.2.md)
+  * [02.5 C中调用Go函数](eBook/chapter2/02.5.md)
+    * [02.5.1 Go Package](eBook/chapter2/02.5.1.md)
+    * [02.5.2 C代码](eBook/chapter2/02.5.2.md)
+  * [02.6 defer关键字](eBook/chapter2/02.6.md)
 
 * [3 Go基本数据类型]
   * [03.3 Go切片](eBook/chapter3/03.3.md)
@@ -46,8 +47,7 @@
   * [03.9 练习](eBook/chapter3/03.9.md)
   * [03.10 本章小结](eBook/chapter3/03.10.md)
 
-* [4 组合类型的使用]
-  * [04.0 组合类型的使用](eBook/chapter4/04.0.md)
+* [4 组合类型的使用](eBook/chapter4/04.0.md)
   * [04.1 关于组合类型](eBook/chapter4/04.1.md)
   * [04.2 结构体](eBook/chapter4/04.2.md)
     * [04.2.1 结构体指针](eBook/chapter4/04.2.1.md)
@@ -62,9 +62,14 @@
     * [04.5.1 rune是什么？](eBook/chapter4/04.5.1.md)
     * [04.5.2 关于Unicode的包](eBook/chapter4/04.5.2.md)
     * [04.5.3 关于字符串处理的包](eBook/chapter4/04.5.3.md)
+  * [04.6 switch语句](eBook/chapter4/04.6.md)
+  * [04.7 计算Pi的精确值](eBook/chapter4/04.7.md)
+  * [04.8 实现简单的K-V存储](eBook/chapter4/04.8.md)
+  * [04.9 延展阅读](eBook/chapter4/04.9.md)
+  * [04.10 练习](eBook/chapter4/04.10.md)
+  * [04.11 本章小结](eBook/chapter4/04.11.md)
 
-* [5 数据结构]
-  * [05.0 数据结构](eBook/chapter5/05.0.md)
+* [5 数据结构](eBook/chapter5/05.0.md)
   * [05.1 图和节点](eBook/chapter5/05.1.md)
   * [05.2 算法复杂度](eBook/chapter5/05.2.md)
 
@@ -84,19 +89,18 @@
   * [07.8 练习](eBook/chapter7/07.8.md)
   * [07.9 本章小结](eBook/chapter7/07.9.md)
 
-* [9 并发-Goroutines,Channel和Pipeline]
+* [9 并发-Goroutines,Channel和Pipeline](eBook/chapter9/09.0.md)
   * [09.1 关于进程，线程和Go协程](eBook/chapter9/09.1.md)
     * [09.1.1 Go调度器](eBook/chapter9/09.1.1.md)
     * [09.1.2 并发与并行](eBook/chapter9/09.1.2.md)
   * [09.2 Goroutines](eBook/chapter9/09.2.md)
-    [09.2.1 创建一个Goroutine](eBook/chapter9/09.2.1.md)
-    [09.2.2 创建多个Goroutine](eBook/chapter9/09.2.2md)
+    * [09.2.1 创建一个Goroutine](eBook/chapter9/09.2.1.md)
+    * [09.2.2 创建多个Goroutine](eBook/chapter9/09.2.2md)
   * [09.3 优雅地结束goroutines](eBook/chapter9/09.3.md)
     * [09.3.1 当Add()和Done()的数量不匹配时会发生什么？](eBook/chapter9/09.3.1.md)
   * [09.4 Channel(通道)](eBook/chapter9/09.4.md)
 
-* [12 Go网络编程基础]
-  * [12.0 Go网络编程基础](eBook/chapter12/12.0.md)
+* [12 Go网络编程基础](eBook/chapter12/12.0.md)
   * [12.1 关于net/http,net和http.RoundTripper](eBook/chapter12/12.1.md)
     * [12.1.1 http.Response类型](eBook/chapter12/12.1.1.md)
     * [12.1.2 http.Request类型](eBook/chapter12/12.1.2.md)
@@ -106,10 +110,26 @@
   * [12.4 命令行工具netcat](eBook/chapter12/12.4.md)
   * [12.5 读取网络接口的配置文件](eBook/chapter12/12.5.md)
   * [12.6 实现DNS查询](eBook/chapter12/12.6.md)
+  * [12.8 追踪 HTTP](eBook/chapter12/12.8.md)
+    * [12.8.1 测试 HTTP handler](eBook/chapter12/12.8.1.md)
+  * [12.9 Go实现web客户端](eBook/chapter12/12.9.md)
 
-* [13 网络编程 - 构建服务器与客户端]
-  * [13.0 网络编程 - 构建服务器与客户端](eBook/chapter13/13.0.md)
+* [13 网络编程 - 构建服务器与客户端](eBook/chapter13/13.0.md)
   * [13.1 Go 标准库-net](eBook/chapter13/13.1.md)
   * [13.2 TCP 客户端](eBook/chapter13/13.2.md)
     * [13.2.1 另一个版本的 TCP 客户端](eBook/chapter13/13.2.1.md)
   * [13.3 TCP 服务器](eBook/chapter13/13.3.md)
+    * [13.3.1 另一个版本的 TCP 服务器](eBook/chapter13/13.3.1.md)
+  * [13.4 UDP 客户端](eBook/chapter13/13.4.md)
+  * [13.5 UDP 服务器](eBook/chapter13/13.5.md)
+  * [13.6 并发 TCP 服务器](eBook/chapter13/13.6.md)
+    * [13.6.1 简洁的并发TCP服务器](eBook/chapter13/13.6.1.md)
+  * [13.7 远程调用（RPC）](eBook/chapter13/13.7.md)
+    * [13.7.1 RPC 客户端](eBook/chapter13/13.7.1.md)
+    * [13.7.2 RPC 服务器](eBook/chapter13/13.7.2.md)
+  * [13.8 底层网络编程](eBook/chapter13/13.8.md)
+    * [13.8.1 获取ICMP数据](eBook/chapter13/13.8.1.md)
+  * [13.9 接下来的任务](eBook/chapter13/13.9.md)
+  * [13.10 延展阅读](eBook/chapter13/13.10.md)
+  * [13.11 练习](eBook/chapter13/13.11.md)
+  * [13.12 本章小节](eBook/chapter13/13.12.md)
