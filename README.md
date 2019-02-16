@@ -118,7 +118,8 @@
   - [12.6 实现DNS查询](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.6.md)
   - [12.8 追踪 HTTP](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.8.md)
     - [12.8.1 测试 HTTP handler](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.8.1.md)
-  
+  - [12.9 Go实现web客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.9.md)
+
 - [chapter 13 网络编程 - 构建服务器与客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.0.md)
   - [13.1 Go 标准库-net](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.1.md)
   - [13.2 TCP 客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.2.md)
