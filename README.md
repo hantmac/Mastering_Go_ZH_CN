@@ -125,9 +125,9 @@
     - [12.8.1 测试 HTTP handler](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.8.1.md)
   - [12.9 Go实现web客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.9.md)
     - [12.9.1 Go web客户端进阶](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.9.1.md)
+  - [12.10 HTTP连接超时](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.10.md)
     - [12.10.1 SetDeadline 介绍](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.10.1.md)
     - [12.10.2 服务端设置超时时间](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.10.2.md)
-  
 - [chapter 13 网络编程 - 构建服务器与客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.0.md)
   - [13.1 Go 标准库-net](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.1.md)
   - [13.2 TCP 客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.2.md)
