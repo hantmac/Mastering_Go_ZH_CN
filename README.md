@@ -31,6 +31,7 @@
     - [02.5.1 Go Package](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.5.1.md)
     - [02.5.2 C代码](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.5.2.md)
   - [02.6 defer关键字](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.6.md)
+  - [02.7 Panic和Recover](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.7.md)
 - [chapter 3 Go基本数据类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter3)
   - [03.3 Go切片](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.md)
     - [03.3.1 切片基本操作](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.1.md)
