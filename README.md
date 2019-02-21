@@ -129,9 +129,11 @@
   - [12.10 HTTP连接超时](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.10.md)
     - [12.10.1 SetDeadline 介绍](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.10.1.md)
     - [12.10.2 服务端设置超时时间](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.10.2.md)
+    - [12.10.3 设置超时的另外一种方法](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.10.3.md)
   - [12.11 抓包工具Wireshark和tshark](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.11.md)
   - [12.12 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.12.md)
   
+
 - [chapter 13 网络编程 - 构建服务器与客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.0.md)
   - [13.1 Go 标准库-net](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.1.md)
   - [13.2 TCP 客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.2.md)
