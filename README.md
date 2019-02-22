@@ -107,6 +107,8 @@
       - [09.3.1 当Add()和Done()的数量不匹配时会发生什么？](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.3.1.md)
   - [09.4 Channel(通道)](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.4.md)
 
+- [chapter 11 代码测试，优化以及分析](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.0.md)
+
 - [chapter 12 Go网络编程基础](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.0.md)
   - [12.1 关于net/http,net和http.RoundTripper](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.md)
     - [12.1.1 http.Response类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.1.md)
@@ -129,7 +131,6 @@
   - [12.10 HTTP连接超时](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.10.md)
     - [12.10.1 SetDeadline 介绍](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.10.1.md)
     - [12.10.2 服务端设置超时时间](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.10.2.md)
-
     - [12.10.3 设置超时的另外一种方法](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.10.3.md)
   - [12.11 抓包工具Wireshark和tshark](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.11.md)
   - [12.12 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.12.md)
