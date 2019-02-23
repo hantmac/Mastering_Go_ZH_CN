@@ -108,6 +108,8 @@
   - [09.4 Channel(通道)](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.4.md)
 
 - [chapter 11 代码测试，优化以及分析](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.0.md)
+  - [11.1 本章使用的Go版本](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.md)
+    - [11.1.1 1.10和1.9的版本对比](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.1.md)
 
 - [chapter 12 Go网络编程基础](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.0.md)
   - [12.1 关于net/http,net和http.RoundTripper](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.md)
