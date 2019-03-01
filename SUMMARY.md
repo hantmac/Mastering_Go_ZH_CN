@@ -23,6 +23,11 @@
   * [02.6 defer关键字](eBook/chapter2/02.6.md)
 
 * [3 Go基本数据类型]
+  * [03.1 Go循环](eBook/chapter3/03.1.md)
+    * [03.1.1 for循环](eBook/chapter3/03.1.1.md)
+    * [03.1.2 while循环](eBook/chapter3/03.1.2.md)
+    * [03.1.3 range关键字](eBook/chapter3/03.1.3.md)
+    * [03.1.4 for循环代码示例](eBook/chapter3/03.1.4.md)
   * [03.3 Go切片](eBook/chapter3/03.3.md)
     * [03.3.1 切片基本操作](eBook/chapter3/03.3.1.md)
     * [03.3.2 切片的扩容](eBook/chapter3/03.3.2.md)
