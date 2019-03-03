@@ -115,6 +115,7 @@
   - [11.4 优化你的Go代码](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.4.md)
   - [11.5 分析Go代码](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.5.md)
     - [11.5.1 标准库net/http/pprof](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.5.1.md)
+    - [11.5.3 用于分析的第三方包](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.5.3.md) 
 
 - [chapter 12 Go网络编程基础](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.0.md)
   - [12.1 关于net/http,net和http.RoundTripper](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.md)
