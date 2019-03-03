@@ -11,6 +11,7 @@
 ### 翻译进度
 
 *持续更新中。。。。*
+
 - [目录](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/TOC.md)
 - [chapter 0 前言](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter0)
   - [00.1 前言](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter0/00.1.md)
@@ -33,6 +34,11 @@
   - [02.6 defer关键字](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.6.md)
   - [02.7 Panic和Recover](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.7.md)
 - [chapter 3 Go基本数据类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter3)
+  - [03.1 Go循环](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.1.md)
+    - [03.1.1 for循环](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.1.1.md)
+    - [03.1.2 while循环](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.1.2.md)
+    - [03.1.3 range关键字](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.1.3.md)
+    - [03.1.4 for循环代码示例](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.1.4.md)
   - [03.3 Go切片](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.md)
     - [03.3.1 切片基本操作](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.1.md)
     - [03.3.2 切片的扩容](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter3/03.3.2.md)
@@ -116,7 +122,9 @@
   - [11.5 分析Go代码](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.5.md)
     - [11.5.1 标准库net/http/pprof](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.5.1.md)
     - [11.5.2 代码分析示例](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.5.2.md)
-  
+    - [11.5.3 用于分析的第三方包](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.5.3.md) 
+
+
 - [chapter 12 Go网络编程基础](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.0.md)
   - [12.1 关于net/http,net和http.RoundTripper](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.md)
     - [12.1.1 http.Response类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.1.md)
