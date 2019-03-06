@@ -125,6 +125,7 @@
     - [11.5.3 用于分析的第三方包](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.5.3.md)
     - [11.5.4 Go分析器的web接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.5.4.md)
       - [11.5.4.1 使用web接口的分析示例](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.5.4.1.md)
+      - [11.5.4.2 Graphviz快览](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.5.4.2.md)
 
 - [chapter 12 Go网络编程基础](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.0.md)
   - [12.1 关于net/http,net和http.RoundTripper](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.md)
