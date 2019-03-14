@@ -128,8 +128,12 @@
       - [11.5.4.2 Graphviz快览](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.5.4.2.md)
     - [11.6 go tool的代码追踪](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.6.md)
     - [11.7 测试](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.7.md)
+
       - [11.7.1 编程测试代码](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.7.1.md)
+    - [11.8 基准测试](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.8.md)
+
       - [11.8.2 错误的基准测试函数](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.8.2.md) 
+
 
 - [chapter 12 Go网络编程基础](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.0.md)
   - [12.1 关于net/http,net和http.RoundTripper](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.md)
