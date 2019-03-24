@@ -134,6 +134,7 @@
       - [11.8.2 错误的基准测试函数](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.8.2.md) 
     - [11.9 基准测试的缓冲写入](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.9.md)
     - [11.10 揪出隐藏的代码](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.10.md)
+    - [11.11 交叉编译](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.11.md)
 
 
 - [chapter 12 Go网络编程基础](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.0.md)
