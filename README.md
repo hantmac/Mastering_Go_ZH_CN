@@ -136,6 +136,7 @@
   - [11.10 揪出隐藏的代码](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.10.md)
   - [11.11 交叉编译](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.11.md)
   - [11.12 创建示例函数](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.12.md)
+  - [11.13 生成文档](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.13.md)
 
 
 - [chapter 12 Go网络编程基础](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.0.md)
