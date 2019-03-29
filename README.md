@@ -112,7 +112,7 @@
   - [09.3 优雅地结束goroutines](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.3.md)
       - [09.3.1 当Add()和Done()的数量不匹配时会发生什么？](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.3.1.md)
   - [09.4 Channel(通道)](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.4.md)
-
+- [chapter 10 Go 并发-进阶讨论](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.0.md)
 - [chapter 11 代码测试，优化以及分析](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.0.md)
   - [11.1 本章使用的Go版本](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.md)
     - [11.1.1 1.10和1.9的版本对比](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.1.md)
@@ -140,8 +140,6 @@
   - [11.14 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.14.md)
   - [11.15 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.15.md)
   - [11.16 本章小节](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.16.md)
-
-
 - [chapter 12 Go网络编程基础](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.0.md)
   - [12.1 关于net/http,net和http.RoundTripper](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.md)
     - [12.1.1 http.Response类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.1.md)
@@ -169,7 +167,6 @@
   - [12.12 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.12.md)
   - [12.13 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.13.md)
   - [12.14 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.14.md)
-
 - [chapter 13 网络编程 - 构建服务器与客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.0.md)
   - [13.1 Go 标准库-net](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.1.md)
   - [13.2 TCP 客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.2.md)
@@ -187,7 +184,7 @@
     - [13.8.1 获取ICMP数据](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.8.1.md)
   - [13.9 接下来的任务](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.9.md)
   - [13.10 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.10.md)
-  - [13.11 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.11.md)   
+  - [13.11 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.11.md)
   - [13.12 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.12.md)
 
 -------
