@@ -117,6 +117,8 @@
     - [10.1.1 环境变量 GOMAXPROCS](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.1.1.md)
   - [10.2 select关键字](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.2.md)
   - [10.3 goroutine超时检查的两种方式](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.3.md)
+    - [10.3.1 方式1](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.3.1.md)
+    - [10.3.2 方式2](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.3.2.md)
 - [chapter 11 代码测试，优化以及分析](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.0.md)
   - [11.1 本章使用的Go版本](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.md)
     - [11.1.1 1.10和1.9的版本对比](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.1.md)
