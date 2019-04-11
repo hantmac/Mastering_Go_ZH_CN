@@ -118,9 +118,13 @@
   - [10.2 select关键字](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.2.md)
     - [10.4.1 信号通道](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.4.1.md)
 
+    - [10.4.2 可缓冲通道](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.4.2.md)
+
+
     - [10.4.3 值为nil的通道](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.4.3.md)
 
     - [10.4.5 指定通道的执行顺序](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.4.5.md)
+
 
 - [chapter 11 代码测试，优化以及分析](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.0.md)
   - [11.1 本章使用的Go版本](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.md)
