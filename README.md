@@ -127,6 +127,7 @@
     - [10.4.5 指定通道的执行顺序](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.4.5.md)
   - [10.5 通过共享变量来共享内存](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.5.md)
     - [10.5.1 sync.Mutex 类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.5.1.md)
+      - [10.5.1.1 忘记解锁mutex的后果](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.5.1.1.md)
 - [chapter 11 代码测试，优化以及分析](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.0.md)
   - [11.1 本章使用的Go版本](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.md)
     - [11.1.1 1.10和1.9的版本对比](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.1.md)
