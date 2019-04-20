@@ -131,9 +131,8 @@
     - [10.5.2 sync.RWMutex类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.5.2.md)
     - [10.5.3 通过goroutine共享内存](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.5.3.md)
   - [10.6 竞争状态](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.6.md)
-
   - [10.7 关于context包](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.7.md)
-     - [10.7.1 context使用的高级示例](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.7.1.md)
+    - [10.7.1 context使用的高级示例](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.7.1.md)
 - [chapter 11 代码测试，优化以及分析](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.0.md)
   - [11.1 本章使用的Go版本](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.md)
     - [11.1.1 1.10和1.9的版本对比](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.1.md)
