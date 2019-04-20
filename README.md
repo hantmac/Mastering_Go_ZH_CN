@@ -158,7 +158,7 @@
   - [11.13 生成文档](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.13.md)
   - [11.14 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.14.md)
   - [11.15 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.15.md)
-  - [11.16 本章小节](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.16.md)
+  - [11.16 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.16.md)
 - [chapter 12 Go网络编程基础](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.0.md)
   - [12.1 关于net/http,net和http.RoundTripper](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.md)
     - [12.1.1 http.Response类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.1.md)
