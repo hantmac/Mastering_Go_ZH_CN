@@ -1,8 +1,7 @@
-### GitBook
+### 本书翻译接近完成，欢迎阅读GitBook，提出宝贵的修改意见😘。
 [Mastering_Go_ZH_CN](https://wskdsgcf.gitbook.io/mastering-go-zh-cn)
 
-根据翻译进度实时更新。
-=======
+
 # Mastering_Go_ZH_CN
 ### 《Mastering GO》
 
@@ -210,8 +209,9 @@
   - [13.10 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.10.md)
   - [13.11 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.11.md)
   - [13.12 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.12.md)
-
-
+-----
+根据翻译进度实时更新。
+=======
 -------
 ### 支持本书
 
