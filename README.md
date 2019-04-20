@@ -1,3 +1,8 @@
+### GitBook
+[Mastering_Go_ZH_CN](https://wskdsgcf.gitbook.io/mastering-go-zh-cn)
+
+根据翻译进度实时更新。
+=======
 # Mastering_Go_ZH_CN
 ### 《Mastering GO》
 
@@ -206,12 +211,6 @@
   - [13.11 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.11.md)
   - [13.12 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.12.md)
 
--------
-### GitBook
-[Mastering_Go_ZH_CN](https://wskdsgcf.gitbook.io/mastering-go-zh-cn)
-
-根据翻译进度实时更新。
-=======
 
 -------
 ### 支持本书
