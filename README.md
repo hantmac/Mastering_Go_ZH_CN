@@ -1,3 +1,7 @@
+### 本书翻译接近完成，欢迎阅读GitBook，提出宝贵的修改意见😘。
+[Mastering_Go_ZH_CN](https://wskdsgcf.gitbook.io/mastering-go-zh-cn)
+
+
 # Mastering_Go_ZH_CN
 ### 《Mastering GO》
 
@@ -112,6 +116,7 @@
   - [09.3 优雅地结束goroutines](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.3.md)
     - [09.3.1 当Add()和Done()的数量不匹配时会发生什么？](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.3.1.md)
   - [09.4 Channel(通道)](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.4.md)
+    - [09.4.1 通道的写入](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.4.1.md)
 - [chapter 10 Go 并发-进阶讨论](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.0.md)
   - [10.1 重温调度器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.1.md)
     - [10.1.1 环境变量 GOMAXPROCS](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.1.1.md)
@@ -132,9 +137,13 @@
     - [10.5.3 通过goroutine共享内存](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.5.3.md)
   - [10.6 竞争状态](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.6.md)
   - [10.7 关于context包](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.7.md)
+    - [10.7.1 context使用的高级示例](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.7.1.md)
+
   - [10.8 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.8.md)
   - [10.9 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.9.md)
   - [10.10 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.10.md)
+
+    
 - [chapter 11 代码测试，优化以及分析](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.0.md)
   - [11.1 本章使用的Go版本](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.md)
     - [11.1.1 1.10和1.9的版本对比](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.1.md)
@@ -161,7 +170,7 @@
   - [11.13 生成文档](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.13.md)
   - [11.14 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.14.md)
   - [11.15 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.15.md)
-  - [11.16 本章小节](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.16.md)
+  - [11.16 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.16.md)
 - [chapter 12 Go网络编程基础](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.0.md)
   - [12.1 关于net/http,net和http.RoundTripper](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.md)
     - [12.1.1 http.Response类型](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.1.1.md)
@@ -208,14 +217,9 @@
   - [13.10 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.10.md)
   - [13.11 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.11.md)
   - [13.12 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.12.md)
-
--------
-### GitBook
-[Mastering_Go_ZH_CN](https://wskdsgcf.gitbook.io/mastering-go-zh-cn)
-
+-----
 根据翻译进度实时更新。
 =======
-
 -------
 ### 支持本书
 
