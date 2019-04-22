@@ -117,6 +117,7 @@
     - [09.3.1 当Add()和Done()的数量不匹配时会发生什么？](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.3.1.md)
   - [09.4 Channel(通道)](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.4.md)
     - [09.4.1 通道的写入](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.4.1.md)
+    - [09.4.2 从通道接收数据](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.4.2.md)
 - [chapter 10 Go 并发-进阶讨论](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.0.md)
   - [10.1 重温调度器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.1.md)
     - [10.1.1 环境变量 GOMAXPROCS](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.1.1.md)
