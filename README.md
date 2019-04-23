@@ -142,6 +142,13 @@
     - [10.7.1 context使用的高级示例](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.7.1.md)
     - [10.7.2 工作池](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.7.2.md)
 
+  - [10.8 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.8.md)
+  - [10.9 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.9.md)
+  - [10.10 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter10/10.10.md)
+
+    
+
+
 - [chapter 11 代码测试，优化以及分析](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.0.md)
   - [11.1 本章使用的Go版本](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.md)
     - [11.1.1 1.10和1.9的版本对比](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter11/11.1.1.md)
