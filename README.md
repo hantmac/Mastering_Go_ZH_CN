@@ -90,6 +90,9 @@
 - [chapter5 数据结构](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.0.md)
   - [05.1 图和节点](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.1.md)
   - [05.2 算法复杂度](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.2.md)
+  - [05.3 Go 语言中的二叉树](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.3.md)
+    - [05.3.1 Go 语言实现二叉树](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.3.1.md)
+    - [05.3.2 二叉树的优点](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.3.2.md)
 - [chapter 7 反射和接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7)
   - [07.1 类型方法](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.1.md)
   - [07.2 Go的接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.2.md)
@@ -105,7 +108,8 @@
   - [07.7 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.7.md)
   - [07.8 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.8.md)
   - [07.9 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.9.md)
-
+- [chapter 8 Go UNIX系统编程](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter8/08.0.md)
+  - [chapter 8.1 关于UNIX进程](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter8/08.1.md)
 - [chapter 9 并发-Goroutines,Channel和Pipeline](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.0.md)
   - [09.1 关于进程，线程和Go协程](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.1.md)
     - [09.1.1 Go调度器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.1.1.md)
@@ -252,7 +256,7 @@
 
 - 本书原作者：Mihalis Tsoukalos
 - 参与翻译人员
-  - [Jack](https://github.com/hantmac)
+  - [Jeremy](https://github.com/hantmac)
   - [xionghui](https://github.com/xionghui)
   - [leeweir](https://github.com/leeweir)
   - [songxuexian](https://github.com/songxuexian)
@@ -261,6 +265,7 @@
   - [wskdsgcf](https://github.com/wskdsgcf)
   - [mark1995](https://github.com/mark1995)
   - [themoonbear](https://github.com/themoonbear)
+  - [klew](https://github.com/kasheemlew)
 
 ---------
 ### 授权许可
