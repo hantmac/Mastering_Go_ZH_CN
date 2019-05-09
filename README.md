@@ -135,6 +135,7 @@
   - [chapter 8.1 关于UNIX进程](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter8/08.1.md)
   - [chapter 8.2 flat 包](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter8/08.2.md)
   - [chapter 8.3 io.Reader 和 io.Writer接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter8/08.3.md)
+    - [chapter 8.3.1 文件输入、输出的缓冲和非缓冲方式](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter8/08.3.1.md)
 - [chapter 9 并发-Goroutines,Channel和Pipeline](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.0.md)
   - [09.1 关于进程，线程和Go协程](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.1.md)
     - [09.1.1 Go调度器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter9/09.1.1.md)
