@@ -118,6 +118,7 @@
   - [05.13 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter5/05.13.md)
 - [chapter 6 Go package中不为人知的知识](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter6/06.0.md)
   - [chapter 6.1 关于Go packages](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter6/06.1.md)
+  - [chapter 6.2 Go函数](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter6/06.2.md)
 - [chapter 7 反射和接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7)
   - [07.1 类型方法](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.1.md)
   - [07.2 Go的接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.2.md)
