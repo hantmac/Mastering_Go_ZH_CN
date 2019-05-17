@@ -35,4 +35,4 @@ func main() {
     fmt.Println(doubleSquare(y))
     d, s := doubleSquare(y)
     fmt.Println(d, s)
-}	
+}
