@@ -122,6 +122,7 @@
     - [chapter 6.2.1 匿名函数](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter6/06.2.1.md)
     - [chapter 6.2.2 多返回值的函数](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter6/06.2.2.md)
     - [chapter 6.2.3 可命名的函数返回值](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter6/06.2.3.md)
+    - [chapter 6.2.4 参数为指针的函数](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter6/06.2.4.md)
 - [chapter 7 反射和接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7)
   - [07.1 类型方法](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.1.md)
   - [07.2 Go的接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.2.md)
