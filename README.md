@@ -125,6 +125,7 @@
     - [chapter 6.2.4 参数为指针的函数](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter6/06.2.4.md)
     - [chapter 6.2.5 返回值为指针的函数](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter6/06.2.5.md)
     - [chapter 6.2.6 闭包](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter6/06.2.6.md)
+    - [chapter 6.2.7 函数作为参数](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter6/06.2.7.md)
 - [chapter 7 反射和接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7)
   - [07.1 类型方法](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.1.md)
   - [07.2 Go的接口](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter7/07.2.md)
