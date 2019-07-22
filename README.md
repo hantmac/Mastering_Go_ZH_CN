@@ -32,6 +32,8 @@
 - [chapter 2 Go内部机制](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter2)
   - [02.1 本章概述](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.1.md)
   - [02.2 编译器](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.2.md)
+  - [02.3 垃圾回收](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.3.md)
+    - 02.3.1 三色算法](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.3.1.md)
   - [02.5 C中调用Go函数](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.5.md)
     - [02.5.1 Go Package](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.5.1.md)
     - [02.5.2 C代码](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.5.2.md)
