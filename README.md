@@ -35,6 +35,9 @@
   - [02.3 垃圾回收](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.3.md)
     - [02.3.1 三色算法](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.3.1.md)
     - [02.3.2 垃圾回收器背后的更多操作](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.3.2.md)
+    - [02.3.3 Unsafe code](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.3.3.md)
+    - [02.3.4 关于unsafe包](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.3.4.md)
+    - [02.3.5 另一个usafe包的例子](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.3.5.md)
   - [02.5 C中调用Go函数](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.5.md)
     - [02.5.1 Go Package](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.5.1.md)
     - [02.5.2 C代码](https://github.com/hantmac/Mastering_Go_ZH_CN/blob/master/eBook/chapter2/02.5.2.md)
@@ -332,6 +335,7 @@
   - [themoonbear](https://github.com/themoonbear)
   - [klew](https://github.com/kasheemlew)
   - [foxxnuaa](https://github.com/foxxnuaa)
+  - [luobangkui](https://github.com/luobangkui)
 
 ---------
 ### 授权许可
