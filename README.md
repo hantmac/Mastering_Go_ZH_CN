@@ -312,13 +312,6 @@
 -------
 ### 交流社区
 
-微信群：
-
-![](https://ws3.sinaimg.cn/large/006tNc79ly1fyuq9sie4nj305i0a23yi.jpg)
-
-若以上二维码已过期，请加我微信，拉入群组。
-
-![](https://ws4.sinaimg.cn/large/006tNc79ly1fyus99uw3bj306b06bjrq.jpg)
 
 --------
 ### 致谢
