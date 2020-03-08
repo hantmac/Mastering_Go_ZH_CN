@@ -5,7 +5,7 @@
 # Mastering_Go_ZH_CN
 ### 《Mastering GO》
 
-![](https://ws3.sinaimg.cn/large/006tNbRwly1fyma67vtssj30830a074b.jpg)
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gcmckkzr17j30h80oaqdc.jpg)
 
 ------
 
@@ -13,6 +13,7 @@
 有兴趣的读者可加golang交流群，大家一起交流。
 
 关注公众号Go_Official_Blog 了解更多官方资讯（公众号中回复`加群`即可）。
+
 ![](https://tva1.sinaimg.cn/large/00831rSTgy1gcmccaiuulj309k09k0so.jpg)
 
 
