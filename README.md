@@ -5,7 +5,7 @@
 # Mastering_Go_ZH_CN
 ### 《Mastering GO》
 
-![](https://tva1.sinaimg.cn/large/00831rSTgy1gcmckkzr17j30h80oaqdc.jpg)
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gcmcnj3re8j304q06mgmo.jpg)
 
 ------
 
@@ -16,7 +16,7 @@
 
 ![](https://tva1.sinaimg.cn/large/00831rSTgy1gcmccaiuulj309k09k0so.jpg)
 
-
+-----
 本书适用于Golang程序员。您之前应该阅读有关Go的介绍性书籍，或者已经完成了[Go By Example](https://books.studygolang.com/gobyexample/)。本书的内容包括但不限于并发、网络编程、垃圾回收、组合、GO UNIX系统编程、基本数据类型（Array,Slice,Map）、GO源码、反射，接口，类型方法等高级概念。阅读本书需要一定的编程经验。如果你在工作中使用Go或者业余时间爱好GO，那么这本书一定会让你对GO的理解更上一层楼。
 
 ### 翻译进度
