@@ -1,6 +1,7 @@
 ### 本书已翻译完成，欢迎阅读GitBook，提出宝贵的修改意见😘。
 [Mastering_Go_ZH_CN](https://wskdsgcf.gitbook.io/mastering-go-zh-cn)
 
+英文第二版强势来袭！我们也在招募热爱学习的你，一起来玩转，第二版项目地址：https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN
 
 # Mastering_Go_ZH_CN
 ### 《Mastering GO》
