@@ -1,15 +1,25 @@
-### 本书翻译接近完成，欢迎阅读GitBook，提出宝贵的修改意见😘。
-[Mastering_Go_ZH_CN](https://wskdsgcf.gitbook.io/mastering-go-zh-cn)
+### 本书已翻译完成，欢迎阅读GitBook，提出宝贵的修改意见😘。
+在线阅读： [Mastering_Go_ZH_CN](https://wskdsgcf.gitbook.io/mastering-go-zh-cn)
 
+PDF下载：移步release中下载PDF，离线阅读
+
+英文第二版强势来袭！我们也在招募热爱学习的你，一起来玩转，第二版项目地址：https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN
 
 # Mastering_Go_ZH_CN
 ### 《Mastering GO》
 
-![](https://ws3.sinaimg.cn/large/006tNbRwly1fyma67vtssj30830a074b.jpg)
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gcmcnj3re8j304q06mgmo.jpg)
 
 ------
 
+### 交流社区
+有兴趣的读者可加golang交流群，大家一起交流。
 
+关注公众号Go_Official_Blog 了解更多官方资讯（公众号中回复`加群`即可）。
+
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gcmcur033tj306b06b74o.jpg)
+
+-----
 本书适用于Golang程序员。您之前应该阅读有关Go的介绍性书籍，或者已经完成了[Go By Example](https://books.studygolang.com/gobyexample/)。本书的内容包括但不限于并发、网络编程、垃圾回收、组合、GO UNIX系统编程、基本数据类型（Array,Slice,Map）、GO源码、反射，接口，类型方法等高级概念。阅读本书需要一定的编程经验。如果你在工作中使用Go或者业余时间爱好GO，那么这本书一定会让你对GO的理解更上一层楼。
 
 ### 翻译进度
@@ -295,7 +305,6 @@
   - [13.11 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.11.md)
   - [13.12 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.12.md)
 -----
-根据翻译进度实时更新。
 =======
 -------
 ### 支持本书
@@ -308,10 +317,6 @@
 - 章节命名规则：举例，第一章第一节，01.1.md,如果第一节下面还有分支，01.1.1,依次类推;
 - 联系邮箱，取得电子版，获得安排的翻译章节，Fork分支，提交PR;
 - 由多人审核后，合并
-
--------
-### 交流社区
-
 
 --------
 ### 致谢
