@@ -177,7 +177,7 @@
     * [09.1.2 并发与并行](eBook/chapter9/09.1.2.md)
   * [09.2 Goroutines](eBook/chapter9/09.2.md)
     * [09.2.1 创建一个Goroutine](eBook/chapter9/09.2.1.md)
-    * [09.2.2 创建多个Goroutine](eBook/chapter9/09.2.2md)
+    * [09.2.2 创建多个Goroutine](eBook/chapter9/09.2.2.md)
   * [09.3 优雅地结束goroutines](eBook/chapter9/09.3.md)
     * [09.3.1 当Add()和Done()的数量不匹配时会发生什么？](eBook/chapter9/09.3.1.md)
   * [09.4 Channel(通道)](eBook/chapter9/09.4.md)
