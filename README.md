@@ -15,7 +15,7 @@ PDF下载：移步release中下载PDF，离线阅读
 ### 交流社区
 有兴趣的读者可加golang交流群，大家一起交流。
 
-关注公众号Go_Official_Blog 了解更多官方资讯（公众号中回复`加群`即可）。
+关注公众号Go_Official_Blog 了解更多官方资讯。
 
 ![](https://tva1.sinaimg.cn/large/00831rSTgy1gcmcur033tj306b06b74o.jpg)
 
