@@ -1,5 +1,5 @@
 ### 本书已翻译完成，欢迎阅读GitBook，提出宝贵的修改意见😘。
-在线阅读： [Mastering_Go_ZH_CN](https://wskdsgcf.gitbook.io/mastering-go-zh-cn)
+在线阅读： [Mastering_Go_ZH_CN](https://www.kancloud.cn/book/cloud001/mastering_go/preview/README.md)
 
 PDF下载：移步release中下载PDF，离线阅读
 
